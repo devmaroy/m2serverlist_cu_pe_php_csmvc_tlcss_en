@@ -43,7 +43,7 @@ Use these commands to install the dependencies and start the server.
 5. **Import MySQL database (.sql file in the repo)**
 
    ```
-   $ m2serverlist
+   $ m2serverlist.sql
    ```
 
 6. **Start PHP up**
