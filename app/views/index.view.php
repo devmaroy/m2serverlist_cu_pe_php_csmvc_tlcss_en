@@ -15,7 +15,7 @@
 							</p>
 						<?php endif; ?>
 
-						<div class="<?php echo $server->vip ? "text-orange-500 " : "text-gray-900" ?> font-bold text-2xl mb-3">
+						<div class="<?php echo $server->vip ? "text-orange-400 " : "text-gray-900" ?> font-bold text-2xl mb-3">
 							<?php echo ++$count . '.'; ?>
 							<?php echo htmlspecialchars( $server->name ); ?>
 						</div>
