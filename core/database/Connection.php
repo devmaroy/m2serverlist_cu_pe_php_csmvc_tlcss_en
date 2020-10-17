@@ -24,7 +24,7 @@ class Connection
 				$config['options']
 			);
 		} catch ( PDOException $e ) {
-			die( $e->getMessage() );
+			die( "Couldn't connect to the database" );
 		}
 	}
 }
