@@ -37,7 +37,7 @@ Use these commands to install the dependencies and start the server.
 4. **Install composer**
 
    ```
-   $ install composer
+   $ composer install
    ```
 
 5. **Import MySQL database (.sql file in the repo)**
