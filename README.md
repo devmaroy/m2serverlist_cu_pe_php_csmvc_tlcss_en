@@ -44,9 +44,15 @@ Use these commands to install the dependencies and start the server.
    $ m2serverlist
    ```
 
-6. **Start PHP up** `$ php -S localhost:8888 ` <br>
-   you can also use MAMP or something else.
+6. **Start PHP up**
 
+    ```
+    $ php -S localhost:8888
+    ```
+
+   you can also use MAMP or something else.
+<br>
+<br>
 **Your site is now running at `http://localhost:8888`!**
 
 <br>
