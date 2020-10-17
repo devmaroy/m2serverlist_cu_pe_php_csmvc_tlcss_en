@@ -1,9 +1,8 @@
-<img src="src/images/logo/logobg.png" width="100">
+<img src="public/images/logo.svg" width="60">
 
 # **M2 Server List**
 
 This project is powered by **PHP** based on VERY SIMPLE MVC framework and is created for a fun. I just wanted to play with a PHP a little.
-
 
 <br>
 
@@ -18,7 +17,7 @@ Use these commands to install the dependencies and start the server.
 1. **Clone from Github**
 
    ```
-   $ git clone git@github.com:devmaroy/m2serverlist_cu_pe_php_csmvc_en.git
+   $ git clone git@github.com:devmaroy/m2serverlist_cu_pe_php_csmvc_tlcss_en.git
    ```
 
 2. **Navigate into your directory where you cloned repository**
@@ -46,7 +45,7 @@ Use these commands to install the dependencies and start the server.
    ```
 
 6. **Start PHP up** `$ php -S localhost:8888 ` <br>
-you can also use MAMP or something else.
+   you can also use MAMP or something else.
 
 **Your site is now running at `http://localhost:8888`!**
 
@@ -109,4 +108,4 @@ A quick look at the top-level files and directories you'll see in my project.
 
 Created by **[@devmaroy](https://twitter.com/devmaroy)** feel free to contact me
 
-e-mail: **[hello@devmaroy.com](mailto:hello@devmaroy.com?subject=[GitHub]%20m2serverlist_cu_pe_php_csmvc_en)**
+e-mail: **[hello@devmaroy.com](mailto:hello@devmaroy.com?subject=[GitHub]%20m2serverlist_cu_pe_php_csmvc_tlcss_en)**
