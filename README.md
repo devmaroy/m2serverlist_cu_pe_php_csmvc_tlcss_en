@@ -45,6 +45,10 @@ Use these commands to install the dependencies and start the server.
    ```
    $ m2serverlist.sql
    ```
+   The original database name is: **m2serverlist**. Create new and import all from sql file. You can find database config in **config.php**.
+
+   <br>
+
 
 6. **Start PHP up**
 
