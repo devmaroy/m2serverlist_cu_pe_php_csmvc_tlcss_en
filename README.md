@@ -110,7 +110,7 @@ A quick look at the top-level files and directories you'll see in my project.
 
 ### Live example:
 
-**[marekmatejovic.com](https://marekmatejovic.com)**
+**[m2serverlist.marekmatejovic.com](https://m2serverlist.marekmatejovic.com)**
 
 <br>
 
