@@ -4,6 +4,8 @@
 
 This project is powered by **PHP** based on VERY SIMPLE MVC framework and is created for a fun. I just wanted to play with a PHP a little.
 
+Created with Tailwind CSS - easiest use - for fun.
+
 <br>
 
 ![](screenshot.png)
