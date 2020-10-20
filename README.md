@@ -2,7 +2,7 @@
 
 # **M2 Server List**
 
-This project is powered by **PHP** based on VERY SIMPLE MVC framework and is created for a fun. I just wanted to play with a PHP a little.
+This project is powered by PHP. The framework that is used in this project is VERY SIMPLE MVC framework and is created for a fun. I just wanted to play with PHP a little bit.
 
 Created with Tailwind CSS - the easiest use - for fun.
 
