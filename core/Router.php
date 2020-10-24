@@ -88,7 +88,7 @@ class Router
 		// Check if method really exists on controller
 		if ( ! method_exists( $controller, $action ) ) {
 			// Method doesn't exists
-			throw new Exception( "{$controller} method doesn't does not respond to the {$action} action." );
+			throw new Exception( "{$controller} doesn't respond to the {$action} action." );
 		}
 
 		// Method exists on controller so we can call it
