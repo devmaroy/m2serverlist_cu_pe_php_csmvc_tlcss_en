@@ -54,7 +54,7 @@ class QueryBuilder
 			$statement = $this->pdo->prepare( $sql );
 			$statement->execute( $parameters );
 		} catch ( PDOException $e ) {
-			die( 'Oops, error occured while adding new server' );
+			die( 'Error occured while adding a new record to the database' );
 		}
 	}
 }
