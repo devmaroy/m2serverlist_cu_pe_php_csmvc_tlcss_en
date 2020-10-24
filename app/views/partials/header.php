@@ -11,4 +11,8 @@
 </head>
 <body>
 
-	<?php require_once( 'nav.php' ) ?>
+	<div class="header bg-gray-800 p-10">
+		<div class="max-w-screen-lg mx-auto">
+			<?php require_once( 'nav.php' ) ?>
+		</div>
+	</div>
